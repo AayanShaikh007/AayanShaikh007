@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+- 👋 Hi, I’m @AayanShaikh007
+- 👀 I’m interested in you.
+- 🌱 I’m currently learning how to make weapons of mass destruction
+- 👯 I’m looking to collaborate with the CIA to work on various bioweapons
+- 💬 Ask me about: the political and economic state of the universe
+- 📫 How to reach me: Slack + Discord
+- ⚡ Fun fact: there is no fun fact
 <!--
 **AayanShaikh007/AayanShaikh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

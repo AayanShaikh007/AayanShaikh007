@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 👋 Hi, I’m @AayanShaikh007
+- 👋 Hi, I’m Aayan Shaikh, a incoming computer engineering student based in Waterloo, Ontario.
 - 👀 I’m interested in data science, software engineering
+- 🌱 I'm currently learning mobile app development, advanced PCB design, UI/UX design and more.
 - 💬 Ask me about: the political and economic state of the universe
-- 📫 How to reach me: Slack + Discord
+- 📫 How to reach me: Slack (@Scalar), Discord
 
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2739&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default)

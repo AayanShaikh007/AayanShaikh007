@@ -6,9 +6,11 @@
 - 📫 How to reach me: Slack (@Scalar), Discord
 
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2739&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default)
+[![Hackatime's Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2739&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default)
+](https://github-readme-stats.hackclub.dev/api/wakatime?username=2739&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayanShaikh007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&rank_icon=github" alt="midnight0s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayanShaikh007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&rank_icon=github" alt="transparent" /></p>
 
 
 

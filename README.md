@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m Aayan Shaikh, a incoming computer engineering student based in Waterloo, Ontario.
+- 👋 Hi, I’m Aayan Shaikh, a computer engineering undergrad student based in Waterloo, Ontario.
 - 👀 I’m interested in data science, software engineering
 - 🌱 I'm currently learning mobile app development, advanced PCB design, UI/UX design and more.
 - 💬 Ask me about: the political and economic state of the universe

@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=AayanShaikh007&color=ff69b4&style=flat-square)
+
 - 👋 Hi, I’m Aayan Shaikh, a computer engineering undergraduate student based in Waterloo, Ontario.
 - 👀 I’m interested in machine learning, embedded development and FPGA/MCU engineering.
 - 🌱 I'm currently learning mobile app development, advanced PCB design, FPGA Verilog programming and more.

@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=AayanShaikh007&color=ff69b4&style=flat-square)
 
 - 👋 Hi, I’m Aayan Shaikh, a computer engineering undergraduate student based in Waterloo, Ontario.
 - 👀 I’m interested in machine learning, embedded development and FPGA/MCU engineering.
@@ -11,6 +10,7 @@
   <img src="https://yourinsights.vercel.app/api/insight?username=AayanShaikh007&theme=radical&graph=false&languages=false&streak=false&stats=false&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=AayanShaikh007&color=ff69b4&style=flat-square)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2739&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent" alt="GitHub Insights" />
